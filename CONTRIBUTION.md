@@ -1,6 +1,6 @@
 # Fork. Contribute. Learn
 
-Welcome to this documentaton on `How to Contribute?`
+Welcome to this documentation on `How to Contribute?`
 
 - Fork [this](https://github.com/officialbbc/contributeToHacktober) repository.
 - Clone it into your PC.
